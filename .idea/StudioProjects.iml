@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/claculator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/claculator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/claculator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/iamrich_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/iamrich_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/iamrich_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/magic-8-ball-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/magic-8-ball-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/magic-8-ball-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/untitle_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/untitle_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/untitle_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
